@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Priscilla!</title>
+  <desc id="desc">A cream postcard with orange lettering, mint, pink and blue stickers, little stars and a smiling flower.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#ede7dc" stroke-width="1"/></pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="5" stdDeviation="0" flood-color="#e2d8cc" flood-opacity=".6"/></filter>
+  </defs>
+  <rect width="960" height="320" rx="25" fill="#fffaf1"/>
+  <rect x="1" y="1" width="958" height="318" rx="24" fill="url(#grid)" stroke="#eee5d8"/>
+  <path d="M0 270Q130 237 240 278T485 273T740 278T960 260V320H0Z" fill="#ddf2e8"/>
+  <g transform="translate(145 44) rotate(-3 322 114)" filter="url(#shadow)">
+    <rect width="660" height="225" rx="12" fill="#fffefb" stroke="#e4dccf" stroke-width="2"/>
+    <path d="M17 13H643V210H17Z" fill="none" stroke="#f1e8d9" stroke-dasharray="4 7"/>
+    <rect x="243" y="-12" width="145" height="30" rx="3" fill="#acd8eb" fill-opacity=".8" transform="rotate(4 316 3)"/>
+    <text x="57" y="67" fill="#656763" font-size="24" font-family="Trebuchet MS,Arial,sans-serif" letter-spacing="2">HI, I'M</text>
+    <text x="52" y="157" fill="#ef8b43" font-size="91" font-weight="800" font-family="Trebuchet MS,Arial,sans-serif" letter-spacing="-4">Priscilla</text>
+    <path d="M61 183Q188 171 330 184" fill="none" stroke="#f5bbcd" stroke-width="9" stroke-linecap="round"/>
+    <g transform="translate(570 97) rotate(12)">
+      <path d="M0-32 9-9 32 0 9 9 0 32-9 9-32 0-9-9Z" fill="#b8e4d0" stroke="#69af97" stroke-width="2"/>
+      <path d="M33 30V46M25 38H41" stroke="#edab48" stroke-width="3" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(98 90) rotate(-14)">
+    <path d="M0-38C15-45 26-24 19-16C44-20 49 5 29 13C47 32 23 51 9 32C0 57-27 42-22 25C-49 33-53 6-30-2C-50-23-22-42-10-23C-13-31-8-37 0-38Z" fill="#f5bbcd" stroke="#fffefb" stroke-width="7"/>
+    <circle r="18" fill="#fff1b3"/><path d="M-6-3V0M6-3V0M-5 7Q0 12 5 7" stroke="#776747" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  </g>
+  <g transform="translate(862 228) rotate(12)" filter="url(#shadow)">
+    <path d="M-43-15Q-42-38-15-38H28Q48-38 48-15V12Q48 29 26 29H4L-16 44-13 29H-19Q-43 28-43 7Z" fill="#b6dbed" stroke="#fffefb" stroke-width="6"/>
+    <path d="M-16-6V1M16-6V1M-9 10Q0 18 9 10" fill="none" stroke="#497e91" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g fill="#e9ac52"><path d="m841 51 5 14 14 5-14 5-5 14-5-14-14-5 14-5Z"/><circle cx="887" cy="112" r="4"/><circle cx="65" cy="206" r="4"/></g>
+  <path d="M68 253Q78 238 88 253T108 253" fill="none" stroke="#7bb4ce" stroke-width="4" stroke-linecap="round"/>
+  <path d="m813 138 7-12 8 12 7-12" fill="none" stroke="#f0adbe" stroke-width="4" stroke-linecap="round"/>
+</svg>
