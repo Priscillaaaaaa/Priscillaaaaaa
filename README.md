@@ -1,8 +1,10 @@
 <p align="center"><img src="journal-header.svg" width="900" alt="Hi, I'm Priscilla!" /></p>
 
 <p align="center">
-<img src="about-note.svg" width="440" alt="关于这个人：TJU 研0。喜欢游戏、手帐、电影、追竞、旅游。正在慢慢学：多智能体、联邦学习。" />
-<img src="travel-ticket.svg" width="440" alt="最近出没：gap 中，长居北京，世界随机刷新。" />
+<picture>
+  <source media="(max-width: 600px)" srcset="profile-stack.svg" />
+  <img src="profile-row.svg" width="900" alt="关于这个人：TJU 研0。喜欢游戏、手帐、电影、追竞、旅游。正在慢慢学：多智能体、联邦学习。最近出没：gap 中，长居北京，世界随机刷新。" />
+</picture>
 </p>
 
 <p align="center"><img src="memory-strip.svg" width="900" alt="手帐小收藏：拿兔子糖的奇犽。游戏、手帐、电影、追竞、旅游。" /></p>
